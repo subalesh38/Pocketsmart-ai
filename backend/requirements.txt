@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2
+alembic
+psycopg[binary]
+pydantic>=2
+pydantic-settings
+email-validator
+python-multipart
+pyjwt
+bcrypt
+google-genai
+pillow
+pytest
+httpx
+hypothesis
